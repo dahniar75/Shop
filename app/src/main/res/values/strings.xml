@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Shop</string>
+    <string name="content_text">Sesuai dengan namanya, bunga kering merupakan bunga yang telah melalui proses pengeringan atau dehidrasi secara alami. Sehingga bunga tersebut akan menjadi kering seutuhnya, yang mana untuk pewarnaannya tetap harus melalui satu proses lagi agar tampak terlihat lebih segar.</string>
+    <string name="content_specs_warna">Merah\n
+        Putih\n
+        Lilac</string>
+    <string name="content_specs_ukuran">Wildery</string>
+    <string name="content_specs_berat">8 gram - 10 gram</string>
+    <string name="content_price">Rp. 300.000</string>
+</resources>
